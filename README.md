@@ -4,9 +4,9 @@
 
 ## About Me
 
-- 🎓 Computer Science Student
+- 🎓 Information Technology Student
 - 💻 Interested in Web Development
-- 🌱 Currently learning Frontend Development
+- 🌱 Currently learning Full Stack Development
 - 🚀 Learning HTML, CSS, JavaScript, Node.js
 
 ## Skills
