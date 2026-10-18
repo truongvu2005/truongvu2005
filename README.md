@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vũ
 
-![Profile Views](https://komarev.com/ghpvc/?username=truongvu201005&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=truongvu201005&label=PROFILE+VIEWS&color=blueviolet&style=flat-square&v=2)
 
 ## About Me
 
